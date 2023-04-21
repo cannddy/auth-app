@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+# My Project
+
+This is a description of my project.
+
+## Screenshot
+
+Here's a screenshot of the project:
+
+![Project Screenshot](./assets/Screenshot.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
